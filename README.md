@@ -5,7 +5,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/sheycarvalho/views.svg)
 
-- 🔭 I live in Brazil
+- 🔭 I live in Brazil.
 - 🌱 I currently work on projects with HTML5, CSS3, Bootstrap, Javascript, React, Typescript and NodeJS.
 - 👯 Looking for projects that involve these technologies or frameworks.
 
