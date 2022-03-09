@@ -6,6 +6,7 @@ I'm Sheyenne Carvalho, Full Stack developer!
 - 🌱 I currently work on projects with HTML5, CSS3, Bootstrap, Javascript, React, Typescript and NodeJS.
 - 👯 Looking for projects that involve these technologies or frameworks.
 
+## Technologies used
 <div align="center">
   <a href="https://github.com/sheycarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheycarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +23,7 @@ I'm Sheyenne Carvalho, Full Stack developer!
   <img align="center" alt="She-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
-  ##
+  ##  Contact
  
 <div>
   <a href="https://www.linkedin.com/in/sheyenne-carvalho-114712a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
