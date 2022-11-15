@@ -6,7 +6,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sheycarvalho/views.svg)
 
 - 🔭 I live in Brazil.
-- 💜 In a love triangle with Figma and CSS.  
+- 💜 In a love triangle with Figma and React.  
 - 🌱 I currently work on projects with HTML, CSS, Bootstrap, Javascript, React, Typescript and NodeJS.
 - 👯 Looking for projects that involve these technologies or frameworks.
 
