@@ -15,7 +15,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheycarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheycarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-### > Programming languages I love to work in
+  
+## Programming languages I love to work in
+  <div style="display: inline_block"><br>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "Typescript"/></code>
